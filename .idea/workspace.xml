@@ -1,13 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd1bb25e-5806-4602-8214-148d080de6ed" name="Default Changelist" comment="" />
+    <list default="true" id="dd1bb25e-5806-4602-8214-148d080de6ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-course/src/components/ExpenseDate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-course/src/components/ExpenseItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-course/src/components/ExpenseItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-course/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-course/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-course/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-course/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-course/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-course/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/angular-course/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-course/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-course/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/angular-course/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-course/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/angular-course/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2LxGzE59IjThsxKftvTYpVPzAqR" />
@@ -16,10 +53,31 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/angular-course/src" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/angular-course/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -29,11 +87,100 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676805580834</updated>
-      <workItem from="1676805581901" duration="1214000" />
+      <workItem from="1676805581901" duration="3133000" />
+      <workItem from="1676830173517" duration="304000" />
+      <workItem from="1681992934608" duration="11877000" />
     </task>
+    <task id="LOCAL‎00001" summary="Angular course">
+      <created>1676817382071</created>
+      <option name="number" value="LOCAL‎00001" />
+      <option name="presentableId" value="LOCAL‎00001" />
+      <updated>1676817382071</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Angular course" />
+    <option name="LAST_COMMIT_MESSAGE" value="Angular course" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2476" y="245" key="CommitChangelistDialog2" timestamp="1676817381113">
+      <screen x="1920" y="235" width="1920" height="1040" />
+    </state>
+    <state x="2476" y="245" key="CommitChangelistDialog2/0.0.1280.680/1920.235.1920.1040@1920.235.1920.1040" timestamp="1676817381113" />
+    <state x="2660" y="281" key="FileChooserDialogImpl" timestamp="1682342350905">
+      <screen x="1920" y="6" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="510" key="FileChooserDialogImpl/0.0.1280.680/1920.235.1920.1040@1920.235.1920.1040" timestamp="1676830119201" />
+    <state x="2660" y="281" key="FileChooserDialogImpl/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1682342350905" />
+    <state width="1899" height="219" key="GridCell.Tab.0.bottom" timestamp="1682346432118">
+      <screen x="1920" y="6" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="275" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.235.1920.1040@0.0.1280.680" timestamp="1676829367338" />
+    <state width="1899" height="103" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.235.1920.1040@1920.235.1920.1040" timestamp="1676830122924" />
+    <state width="1899" height="219" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1682346432118" />
+    <state width="1899" height="219" key="GridCell.Tab.0.center" timestamp="1682346432118">
+      <screen x="1920" y="6" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="275" key="GridCell.Tab.0.center/0.0.1280.680/1920.235.1920.1040@0.0.1280.680" timestamp="1676829367338" />
+    <state width="1899" height="103" key="GridCell.Tab.0.center/0.0.1280.680/1920.235.1920.1040@1920.235.1920.1040" timestamp="1676830122924" />
+    <state width="1899" height="219" key="GridCell.Tab.0.center/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1682346432118" />
+    <state width="1899" height="219" key="GridCell.Tab.0.left" timestamp="1682346432118">
+      <screen x="1920" y="6" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="275" key="GridCell.Tab.0.left/0.0.1280.680/1920.235.1920.1040@0.0.1280.680" timestamp="1676829367338" />
+    <state width="1899" height="103" key="GridCell.Tab.0.left/0.0.1280.680/1920.235.1920.1040@1920.235.1920.1040" timestamp="1676830122923" />
+    <state width="1899" height="219" key="GridCell.Tab.0.left/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1682346432118" />
+    <state width="1899" height="219" key="GridCell.Tab.0.right" timestamp="1682346432118">
+      <screen x="1920" y="6" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="275" key="GridCell.Tab.0.right/0.0.1280.680/1920.235.1920.1040@0.0.1280.680" timestamp="1676829367338" />
+    <state width="1899" height="103" key="GridCell.Tab.0.right/0.0.1280.680/1920.235.1920.1040@1920.235.1920.1040" timestamp="1676830122924" />
+    <state width="1899" height="219" key="GridCell.Tab.0.right/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1682346432118" />
+    <state x="2381" y="171" key="SettingsEditor" timestamp="1682342358537">
+      <screen x="1920" y="6" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="400" key="SettingsEditor/0.0.1280.680/1920.235.1920.1040@1920.235.1920.1040" timestamp="1676817291382" />
+    <state x="2381" y="171" key="SettingsEditor/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1682342358537" />
+    <state x="2472" y="484" key="Vcs.Push.Dialog.v2" timestamp="1676817395822">
+      <screen x="1920" y="235" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="484" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.235.1920.1040@1920.235.1920.1040" timestamp="1676817395822" />
+    <state x="2592" y="168" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1682343807048">
+      <screen x="1920" y="6" width="1920" height="1040" />
+    </state>
+    <state x="2592" y="168" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1682343807048" />
+    <state x="0" y="0" width="583" height="680" key="find.popup" timestamp="1676829354164">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="583" height="680" key="find.popup/0.0.1280.680/1920.235.1920.1040@0.0.1280.680" timestamp="1676829354164" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/angular-course/src/App.js</url>
+          <line>24</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
