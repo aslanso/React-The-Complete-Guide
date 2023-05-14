@@ -20,19 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd1bb25e-5806-4602-8214-148d080de6ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-course/src/components/ExpenseDate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-course/src/components/ExpenseItem.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-course/src/components/ExpenseItem.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-course/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-course/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-course/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-course/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-course/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/angular-course/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/angular-course/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-course/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-course/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/angular-course/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-course/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/angular-course/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-course/src/components/Card.css" beforeDir="false" afterPath="$PROJECT_DIR$/angular-course/src/components/UI/Card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-course/src/components/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/angular-course/src/components/UI/Card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-course/src/components/Expenses/ExpenseDate.js" beforeDir="false" afterPath="$PROJECT_DIR$/angular-course/src/components/Expenses/ExpenseDate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-course/src/components/Expenses/ExpenseItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/angular-course/src/components/Expenses/ExpenseItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-course/src/components/Expenses/Expenses.js" beforeDir="false" afterPath="$PROJECT_DIR$/angular-course/src/components/Expenses/Expenses.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +34,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="aslan &lt;aslan.aslan@corp.zim.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -59,8 +58,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/angular-course/src" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aslan\WebstormProjects\React-The-Complete-Guide\angular-course\src\components\UI" />
+      <recent name="C:\Users\aslan\WebstormProjects\React-The-Complete-Guide\angular-course\src\components\Expenses" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -89,7 +94,10 @@
       <updated>1676805580834</updated>
       <workItem from="1676805581901" duration="3133000" />
       <workItem from="1676830173517" duration="304000" />
-      <workItem from="1681992934608" duration="11877000" />
+      <workItem from="1681992934608" duration="17372000" />
+      <workItem from="1683457855442" duration="407000" />
+      <workItem from="1683458280726" duration="3465000" />
+      <workItem from="1684059240222" duration="1369000" />
     </task>
     <task id="LOCAL‎00001" summary="Angular course">
       <created>1676817382071</created>
@@ -97,7 +105,19 @@
       <option name="presentableId" value="LOCAL‎00001" />
       <updated>1676817382071</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL‎00002" summary="[AS-0] finish with props">
+      <created>1682348527504</created>
+      <option name="number" value="LOCAL‎00002" />
+      <option name="presentableId" value="LOCAL‎00002" />
+      <updated>1682348527504</updated>
+    </task>
+    <task id="LOCAL‎00003" summary="section 3">
+      <created>1684059581558</created>
+      <option name="number" value="LOCAL‎00003" />
+      <option name="presentableId" value="LOCAL‎00003" />
+      <updated>1684059581558</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,58 +133,71 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Angular course" />
-    <option name="LAST_COMMIT_MESSAGE" value="Angular course" />
+    <MESSAGE value="[AS-0] finish with props" />
+    <MESSAGE value="section 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="section 3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2476" y="245" key="CommitChangelistDialog2" timestamp="1676817381113">
-      <screen x="1920" y="235" width="1920" height="1040" />
+    <state x="371" y="0" key="CommitChangelistDialog2" timestamp="1684059580466">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="2476" y="245" key="CommitChangelistDialog2/0.0.1280.680/1920.235.1920.1040@1920.235.1920.1040" timestamp="1676817381113" />
+    <state x="371" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.6.1920.1040@0.0.1280.680" timestamp="1684059580466" />
+    <state x="2476" y="6" key="CommitChangelistDialog2/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1682348526250" />
     <state x="2660" y="281" key="FileChooserDialogImpl" timestamp="1682342350905">
       <screen x="1920" y="6" width="1920" height="1040" />
     </state>
     <state x="2660" y="510" key="FileChooserDialogImpl/0.0.1280.680/1920.235.1920.1040@1920.235.1920.1040" timestamp="1676830119201" />
     <state x="2660" y="281" key="FileChooserDialogImpl/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1682342350905" />
-    <state width="1899" height="219" key="GridCell.Tab.0.bottom" timestamp="1682346432118">
-      <screen x="1920" y="6" width="1920" height="1040" />
+    <state width="1259" height="148" key="GridCell.Tab.0.bottom" timestamp="1683634680007">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1899" height="275" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.235.1920.1040@0.0.1280.680" timestamp="1676829367338" />
     <state width="1899" height="103" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.235.1920.1040@1920.235.1920.1040" timestamp="1676830122924" />
+    <state width="1259" height="148" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.6.1920.1040@0.0.1280.680" timestamp="1683634680007" />
     <state width="1899" height="219" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1682346432118" />
-    <state width="1899" height="219" key="GridCell.Tab.0.center" timestamp="1682346432118">
-      <screen x="1920" y="6" width="1920" height="1040" />
+    <state width="1259" height="148" key="GridCell.Tab.0.center" timestamp="1683634680007">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1899" height="275" key="GridCell.Tab.0.center/0.0.1280.680/1920.235.1920.1040@0.0.1280.680" timestamp="1676829367338" />
     <state width="1899" height="103" key="GridCell.Tab.0.center/0.0.1280.680/1920.235.1920.1040@1920.235.1920.1040" timestamp="1676830122924" />
+    <state width="1259" height="148" key="GridCell.Tab.0.center/0.0.1280.680/1920.6.1920.1040@0.0.1280.680" timestamp="1683634680007" />
     <state width="1899" height="219" key="GridCell.Tab.0.center/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1682346432118" />
-    <state width="1899" height="219" key="GridCell.Tab.0.left" timestamp="1682346432118">
-      <screen x="1920" y="6" width="1920" height="1040" />
+    <state width="1259" height="148" key="GridCell.Tab.0.left" timestamp="1683634680006">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1899" height="275" key="GridCell.Tab.0.left/0.0.1280.680/1920.235.1920.1040@0.0.1280.680" timestamp="1676829367338" />
     <state width="1899" height="103" key="GridCell.Tab.0.left/0.0.1280.680/1920.235.1920.1040@1920.235.1920.1040" timestamp="1676830122923" />
+    <state width="1259" height="148" key="GridCell.Tab.0.left/0.0.1280.680/1920.6.1920.1040@0.0.1280.680" timestamp="1683634680006" />
     <state width="1899" height="219" key="GridCell.Tab.0.left/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1682346432118" />
-    <state width="1899" height="219" key="GridCell.Tab.0.right" timestamp="1682346432118">
-      <screen x="1920" y="6" width="1920" height="1040" />
+    <state width="1259" height="148" key="GridCell.Tab.0.right" timestamp="1683634680007">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1899" height="275" key="GridCell.Tab.0.right/0.0.1280.680/1920.235.1920.1040@0.0.1280.680" timestamp="1676829367338" />
     <state width="1899" height="103" key="GridCell.Tab.0.right/0.0.1280.680/1920.235.1920.1040@1920.235.1920.1040" timestamp="1676830122924" />
+    <state width="1259" height="148" key="GridCell.Tab.0.right/0.0.1280.680/1920.6.1920.1040@0.0.1280.680" timestamp="1683634680007" />
     <state width="1899" height="219" key="GridCell.Tab.0.right/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1682346432118" />
-    <state x="2381" y="171" key="SettingsEditor" timestamp="1682342358537">
-      <screen x="1920" y="6" width="1920" height="1040" />
+    <state x="284" y="0" key="SettingsEditor" timestamp="1684059627584">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="2381" y="400" key="SettingsEditor/0.0.1280.680/1920.235.1920.1040@1920.235.1920.1040" timestamp="1676817291382" />
+    <state x="284" y="0" key="SettingsEditor/0.0.1280.680/1920.6.1920.1040@0.0.1280.680" timestamp="1684059627584" />
     <state x="2381" y="171" key="SettingsEditor/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1682342358537" />
-    <state x="2472" y="484" key="Vcs.Push.Dialog.v2" timestamp="1676817395822">
-      <screen x="1920" y="235" width="1920" height="1040" />
+    <state x="368" y="139" key="Vcs.Push.Dialog.v2" timestamp="1684059596061">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="2472" y="484" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.235.1920.1040@1920.235.1920.1040" timestamp="1676817395822" />
-    <state x="2592" y="168" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1682343807048">
-      <screen x="1920" y="6" width="1920" height="1040" />
+    <state x="368" y="139" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.6.1920.1040@0.0.1280.680" timestamp="1684059596061" />
+    <state x="2472" y="255" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1682348538897" />
+    <state x="446" y="34" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1683459317635">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="446" y="34" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/1920.6.1920.1040@0.0.1280.680" timestamp="1683459317635" />
     <state x="2592" y="168" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1682343807048" />
     <state x="0" y="0" width="583" height="680" key="find.popup" timestamp="1676829354164">
       <screen x="0" y="0" width="1280" height="680" />
@@ -176,8 +209,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/angular-course/src/App.js</url>
-          <line>24</line>
-          <properties lambdaOrdinal="-1" />
+          <line>25</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
