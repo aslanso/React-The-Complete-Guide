@@ -20,20 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd1bb25e-5806-4602-8214-148d080de6ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/angular-course/src/components/Chart/Cahrt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-course/src/components/Chart/Chart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-course/src/components/Chart/ChartBar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-course/src/components/Chart/ChartBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-course/src/components/Expenses/ExpensesChart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-course/src/components/Expenses/ExpensesList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-course/src/components/Expenses/ExpensesList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-course/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/angular-course/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-course/src/components/Expenses/ExpenseItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/angular-course/src/components/Expenses/ExpenseItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-course/src/components/Expenses/Expenses.js" beforeDir="false" afterPath="$PROJECT_DIR$/angular-course/src/components/Expenses/Expenses.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-course/src/components/NewExpense/ExpenseForm.css" beforeDir="false" afterPath="$PROJECT_DIR$/angular-course/src/components/NewExpense/ExpenseForm.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-course/src/components/NewExpense/ExpenseForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/angular-course/src/components/NewExpense/ExpenseForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-course/src/components/NewExpense/NewExpense.js" beforeDir="false" afterPath="$PROJECT_DIR$/angular-course/src/components/NewExpense/NewExpense.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/angular-course/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../01-starting-project 2" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
@@ -109,7 +96,7 @@
       <workItem from="1684657474428" duration="4540000" />
       <workItem from="1684840768025" duration="19137000" />
       <workItem from="1686474512039" duration="8831000" />
-      <workItem from="1688290694672" duration="15373000" />
+      <workItem from="1688290694672" duration="19511000" />
     </task>
     <task id="LOCAL‎00001" summary="Angular course">
       <created>1676817382071</created>
@@ -147,7 +134,13 @@
       <option name="presentableId" value="LOCAL‎00006" />
       <updated>1685606386076</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL‎00007" summary="section 6 + 5">
+      <created>1688646148396</created>
+      <option name="number" value="LOCAL‎00007" />
+      <option name="presentableId" value="LOCAL‎00007" />
+      <updated>1688646148396</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,18 +164,19 @@
     <MESSAGE value="[AS-0] finish with props" />
     <MESSAGE value="section 3" />
     <MESSAGE value="section 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="section 4" />
+    <MESSAGE value="section 6 + 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="section 6 + 5" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2476" y="6" key="CommitChangelistDialog2" timestamp="1685606384877">
+    <state x="2476" y="6" key="CommitChangelistDialog2" timestamp="1688646147354">
       <screen x="1920" y="6" width="1920" height="1040" />
     </state>
     <state x="371" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.6.1920.1040@0.0.1280.680" timestamp="1684131507345" />
-    <state x="2476" y="6" key="CommitChangelistDialog2/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1685606384877" />
-    <state x="2660" y="281" key="FileChooserDialogImpl" timestamp="1682342350905">
+    <state x="2476" y="6" key="CommitChangelistDialog2/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1688646147354" />
+    <state x="2660" y="281" key="FileChooserDialogImpl" timestamp="1689501427054">
       <screen x="1920" y="6" width="1920" height="1040" />
     </state>
-    <state x="2660" y="281" key="FileChooserDialogImpl/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1682342350905" />
+    <state x="2660" y="281" key="FileChooserDialogImpl/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1689501427054" />
     <state width="1259" height="111" key="GridCell.Tab.0.bottom" timestamp="1685871549045">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -208,21 +202,21 @@
     </state>
     <state x="366" y="0" width="914" height="680" key="SettingsEditor/0.0.1280.680/1920.6.1920.1040@0.0.1280.680" timestamp="1685093087298" />
     <state x="2381" y="171" key="SettingsEditor/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1682342358537" />
-    <state x="2472" y="255" key="Vcs.Push.Dialog.v2" timestamp="1685606388971">
+    <state x="2472" y="255" key="Vcs.Push.Dialog.v2" timestamp="1688646158496">
       <screen x="1920" y="6" width="1920" height="1040" />
     </state>
     <state x="368" y="110" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.6.1920.1040@0.0.1280.680" timestamp="1684132055600" />
-    <state x="2472" y="255" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1685606388971" />
+    <state x="2472" y="255" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1688646158496" />
     <state x="2592" y="168" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1685879338391">
       <screen x="1920" y="6" width="1920" height="1040" />
     </state>
     <state x="446" y="34" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/1920.6.1920.1040@0.0.1280.680" timestamp="1683459317635" />
     <state x="2592" y="168" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1685879338391" />
-    <state x="2108" y="6" width="875" height="1040" key="find.popup" timestamp="1688301775320">
+    <state x="2108" y="6" width="875" height="1040" key="find.popup" timestamp="1688646022906">
       <screen x="1920" y="6" width="1920" height="1040" />
     </state>
     <state x="0" y="0" width="583" height="680" key="find.popup/0.0.1280.680/1920.6.1920.1040@0.0.1280.680" timestamp="1684073784886" />
-    <state x="2108" y="6" width="875" height="1040" key="find.popup/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1688301775320" />
+    <state x="2108" y="6" width="875" height="1040" key="find.popup/0.0.1280.680/1920.6.1920.1040@1920.6.1920.1040" timestamp="1688646022906" />
     <state x="2543" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1688300248581">
       <screen x="1920" y="6" width="1920" height="1040" />
     </state>
